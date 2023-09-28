@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @godwinogele
-- 👀 I’m interested in anything data
-- 📫 How to reach me godwinogele96@gmail.com
-
-<!---
-godwinogele/godwinogele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I'm Godwin Ogele Agwu, a dedicated Financial Analyst with a strong background in financial management, inventory control, and data analysis. I'm enthusiastic about leveraging data-driven insights to make informed decisions and drive business success. This GitHub profile is a repository of my data analysis projects and software development endeavors.
