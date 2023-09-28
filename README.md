@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @godwinogele
 - 👀 I’m interested in anything data
-- 🌱 I’m currently learning sql with microsoft sql server
-- 💞️ I’m looking to collaborate on various data projects
 - 📫 How to reach me godwinogele96@gmail.com
 
 <!---
